@@ -292,7 +292,7 @@ async function searchInterface() {
 	</head>
 	<body>
 	<a href="https://www.daitu.site" class="github-corner" aria-label="logo">
-  <img src="https://www.daitu.site/log.jpg" alt="logo"
+  <img src="https://www.daitu.site/log1.ico" alt="logo"
     style="position: absolute; top: 0; right: 0; width: 80px; height: 80px; object-fit: cover; border: none; transform: rotate(45deg); transform-origin: top right;" />
 </a>
 		<div class="container">
